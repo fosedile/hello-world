@@ -1,2 +1,6 @@
 # hello-world
-GitHub Guide Repository
+
+Hello.
+
+Felipe here. Setting up my GitHub account.
+
